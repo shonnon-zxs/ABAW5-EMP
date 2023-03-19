@@ -1,7 +1,6 @@
 # ABAW5-EMP
-#  ABAW3 @ CVPR 2022
-## Task: EXPRESSION CLASSIFICATION
 
+## Task: EXPRESSION CLASSIFICATION
 [ABAW5 @ CVPR 2023](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/)
 
 
